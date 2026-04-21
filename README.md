@@ -49,9 +49,9 @@ gesture-controller/
 ### 1. Clone the repo
 
 
-git clone https://github.com/YOUR_USERNAME/gesture-controller.git
+git clone https://github.com/YOUR_USERNAME/Gesture_Controller.git
 
-cd gesture-controller
+cd Gesture_Controller
 
 
 ---
