@@ -1,0 +1,5 @@
+opencv-python
+pyautogui
+python-dotenv
+inference-sdk
+numpy
